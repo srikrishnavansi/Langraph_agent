@@ -139,7 +139,7 @@ Content-Type: application/json
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/langgraph-qa.git
+git clone https://github.com/srikrishnavansi/langgraph-qa.git
 cd langgraph-qa
 
 # Create virtual environment
@@ -281,7 +281,3 @@ curl -X POST "http://localhost:8000/api/v1/ask" \
 3. Commit your changes
 4. Push to the branch
 5. Create a new Pull Request
-
-## 📄 License
-
-MIT License - see the [LICENSE](LICENSE) file for details
